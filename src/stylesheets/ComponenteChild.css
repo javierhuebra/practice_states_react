@@ -1,0 +1,23 @@
+
+.ComponenteChild{
+    background-color: red;
+    padding: 15px;
+}
+.hook-name{
+    background-color: brown;
+    padding: 5px;
+    margin: 10px;
+}
+
+.loading{
+    background-color: blueviolet;
+    padding: 5px;
+}
+.state-loading{
+    color: red;
+}
+
+.Animals{
+    background-color: rgb(180, 104, 104);
+    padding: 0px 0px 5px 0px;
+}
